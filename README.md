@@ -53,7 +53,8 @@
 
 
 ## Output:
-![Uploading Screenshot 2024-04-12 113956.png…]()
+![Screenshot 2024-04-12 113956](https://github.com/shadhanashree22/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150231910/cac2b54f-4e93-40ed-ae33-b195189ae8e3)
+
 
 ### Name:S V SHADHANASHREE
 ### Register Number: 212223230202
