@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 18.4.24
 
 ## AIM:
 
@@ -53,7 +53,8 @@
 
 
 ## Output:
-![Screenshot 2024-04-12 113956](https://github.com/shadhanashree22/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150231910/cac2b54f-4e93-40ed-ae33-b195189ae8e3)
+![Screenshot 2024-04-17 165733](https://github.com/shadhanashree22/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150231910/9d76e1de-9355-4d56-afe8-b228ffba0087)
+
 
 
 ### Name:S V SHADHANASHREE
